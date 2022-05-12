@@ -1,6 +1,6 @@
 
 # YourJava-Café
-A cozy landing page built from scratch for a tech-inspired coffee shop.
+A cozy landing page built for a tech-inspired coffee shop.
 
 **Link to project:** https://yourjavacafe.netlify.app/
 
@@ -13,5 +13,11 @@ A cozy landing page built from scratch for a tech-inspired coffee shop.
 
 
 ## Lessons Learned:
+
+Creating a layout from scratch using only HTML & CSS
+
+CSS Animation
+
+Media Queries
 
 
